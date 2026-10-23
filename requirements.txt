@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+scikit-learn
+faiss-cpu
+gensim
+tqdm
+nltk
+jupyter

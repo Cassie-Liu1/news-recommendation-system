@@ -1,0 +1,28 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data and generated artifacts
+data/
+outputs/
+models/
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# Editor settings
+.vscode/
+.idea/
+anaconda_projects/
+
+# Local source materials pending publication clearance
+notebooks/
+assets/
